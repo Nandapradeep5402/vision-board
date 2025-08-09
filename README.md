@@ -1,2 +1,0 @@
-# vision-board
-yearly plan 
